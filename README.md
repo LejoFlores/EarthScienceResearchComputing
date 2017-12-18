@@ -1,4 +1,4 @@
-## GEOS 505: Research Computing in Earth Science
+## Introduction
 
 Welcome! This is a graduate-level class designed to equip students with modern skills and practices that will allow them to effectively use computing to conduct research in the Earth and Environmental Sciences.  
 
@@ -6,4 +6,6 @@ My name is Lejo Flores and I am an Associatae Professor in the Geosciences Depar
 
 More is coming...
 
-Course Learning Outcomes (CLOs) can be [found here](pages/LearningOutcomes.md)
+### Table of Contents
+1. Course Learning Outcomes (CLOs) can be [found here](pages/LearningOutcomes.md)
+2. The tentative course schedule can be [found here](pages/Schedule.md)
