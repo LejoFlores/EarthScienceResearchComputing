@@ -5,3 +5,5 @@ Welcome! This is a graduate-level class designed to equip students with modern s
 My name is Lejo Flores and I am an Associatae Professor in the Geosciences Department at Boise State University. I will your  learning coordinator and coach in this class. 
 
 More is coming...
+
+Course Learning Outcomes (CLOs) can be [found here](pages/LearningOutcomes.md)
