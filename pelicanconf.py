@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Lejo Flores'
 SITENAME = 'Research Computing in Earth System Science'
-SITEURL = ''
+SITEURL = 'https://lejoflores.github.io/EarthScienceResearchComputing'
 
 PATH = 'content'
 
