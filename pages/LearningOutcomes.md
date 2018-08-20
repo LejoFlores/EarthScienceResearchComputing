@@ -8,3 +8,5 @@ At the end of this class, students will be able to:
 4. Choose among and apply alternative machine learning approaches to a scientific problem (__Machine Learning__)
 5. Describe the high performance and cloud computing landscape as it pertains to scientific computing (__High Performance and Cloud Computing__)
 6. Design and execute a workflow to address a scientific problem of your development, document the components of that workflow, and provide a summary presentation to your peers (__Synthesis Activity__)
+
+[Return to main page](https://lejoflores.github.io/EarthScienceResearchComputing/)
