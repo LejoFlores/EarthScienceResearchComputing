@@ -1,7 +1,7 @@
 ## Tentative Course Schedule
 
 | __Week Number__ | __Class Date__ | __In Class__ | __Out of Class__ | __CLOs Addressed__ | __Assessments Due__ |
-| :-------------: | :------------: | :----------: | :--------------: | :----------------: | :-----------------: |
+| :-------------: | :------------: | :----------- | :--------------- | :----------------: | :-----------------: |
 | 1               | 2018-08-23     | Introduction and overview, class philosophy, Jupyter notebooks, Bash |        |          |          |
 | 2               | 2018-08-30     |     |        |          |          |
 | 3               | 2018-09-06     |     |        |          |          |
