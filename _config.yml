@@ -3,3 +3,9 @@ theme: jekyll-theme-cayman
 title: "Research Computing in the Earth Sciences"
 
 description: A GitHub webpage for an introduction to research computing in the Earth Sciences
+
+
+author:
+  name: Lejo Flores
+  url:  https://lejoflores.github.io/EarthScienceResearchComputing/
+  
