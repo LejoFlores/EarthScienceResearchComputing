@@ -2,21 +2,21 @@
 
 | __Week Number__ | __Class Date__ | __In Class__ | __Out of Class__ | __CLOs Addressed__ | __Assessments Due__ |
 | :-------------: | :------------: | :----------- | :--------------- | :----------------: | :-----------------: |
-| 1               | 2018-08-23     | Introduction and overview, class philosophy, Jupyter notebooks, Bash |        |          |          |
-| 2               | 2018-08-30     |     |        |          |          |
-| 3               | 2018-09-06     |     |        |          |          |
-| 4               | 2018-09-13     |     |        |          |          |
-| 5               | 2018-09-20     |     |        |          |          |
-| 6               | 2018-09-27     |     |        |          |          |
-| 7               | 2018-10-04     |     |        |          |          |
-| 8               | 2018-10-11     |     |        |          |          |
-| 9               | 2018-10-18     |     |        |          |          |
-| 10              | 2018-10-25     |     |        |          |          |
-| 11              | 2018-11-01     |     |        |          |          |
-| 12              | 2018-11-08     |     |        |          |          |
-| 13              | 2018-11-15     |     |        |          |          |
-| 14              | 2018-11-22     |     |        |          |          |
-| 15              | 2018-11-29     |     |        |          |          |
-| 16              | 2018-12-06     | Project Presentations    |        |          |          |
-| Finals Week     | 2018-12-13     | NO CLASS    |        |          |          |
+| 1               | 2018-08-23     | Introduction, overview, and class philosophy. Introduction to Jupyter notebooks and Bash | | | |
+| 2               | 2018-08-30     | Intro. to Bash (cont.). Introduction to Git and version control | | | |
+| 3               | 2018-09-06     | Intro to Python 3: analyzing data, repeating actions with loops, storing multiple values | | | |
+| 4               | 2018-09-13     |     | | | | |
+| 5               | 2018-09-20     |     | | | | |
+| 6               | 2018-09-27     |     | | | | |
+| 7               | 2018-10-04     |     | | | | |
+| 8               | 2018-10-11     |     | | | | |
+| 9               | 2018-10-18     |     | | | | |
+| 10              | 2018-10-25     |     | | | | |
+| 11              | 2018-11-01     |     | | | | |
+| 12              | 2018-11-08     |     | | | | |
+| 13              | 2018-11-15     |     | | | | |
+| 14              | 2018-11-22     |     | | | | |
+| 15              | 2018-11-29     |     | | | | |
+| 16              | 2018-12-06     | Project Presentations    | | | | |
+| Finals Week     | 2018-12-13     | NO CLASS    | | | | |
 
