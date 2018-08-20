@@ -20,3 +20,4 @@
 | 16              | 12-06 | Project Presentations | | 6 | |
 | Finals Week     | 12-13 | NO CLASS | Project Notebooks | 6 | Project Notebooks Due |
 
+[Return to main page](https://lejoflores.github.io/EarthScienceResearchComputing/)
