@@ -15,4 +15,7 @@ __Phone:__ (208) 426-2903
 
 ## Table of Contents
 1. Course Learning Outcomes (CLOs) can be [found here](pages/LearningOutcomes.md)
-2. The tentative course schedule can be [found here](pages/Schedule.md)
+2. Tentative course schedule can be [found here](pages/Schedule.md)
+3. A blog of what we covered every week can be found here
+4. Class GitHub Repository can be [found here](https://github.com/LejoFlores/EarthScienceResearchComputing)
+5. Some important resources can be found here
