@@ -9,8 +9,11 @@ Thursdays 12:00-2:30pm ERB 1100
 
 ## Instructor Info
 __Instructor:__ [Alejandro N. Flores, Ph.D.](https://leaf.boisestate.edu/alejandro-lejo-flores/)
+
 __Office:__ [ERB 4151](https://www.google.com/maps/place/Environmental+Research+Building,+Boise,+ID+83725/@43.6006919,-116.199061,17z/data=!3m1!4b1!4m5!3m4!1s0x54aef85a2425a4f3:0x5c42c6be15b4adb4!8m2!3d43.6006919!4d-116.1968723)
+
 __Email:__ [lejoflores@boisestate.edu](mailto:lejoflores@boisestate.edu)
+
 __Phone:__ (208) 426-2903
 
 ## Table of Contents
