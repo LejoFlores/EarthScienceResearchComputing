@@ -9,3 +9,6 @@ author:
   name: Lejo Flores
   url:  https://lejoflores.github.io/EarthScienceResearchComputing/
   
+plugins:
+ - jekyll-feed
+ 
