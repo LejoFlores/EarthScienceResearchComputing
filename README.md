@@ -19,6 +19,7 @@ __Phone:__ (208) 426-2903
 ## Table of Contents
 1. Course Learning Outcomes (CLOs) can be [found here](pages/LearningOutcomes.md)
 2. Tentative course schedule can be [found here](pages/Schedule.md)
-3. A blog of what we covered every week can be found here
+3. The course etherpad that keeps running track of every week can be [found here](https://etherpad.boisestate.edu/p/GEOS-505-FA18)
 4. Class GitHub Repository can be [found here](https://github.com/LejoFlores/EarthScienceResearchComputing)
-5. Some important resources can be found here
+5. The link to the Boise State Jupyter server is [found here](https://jupyter.boisestate.edu/)
+6. Some important resources can be found here
