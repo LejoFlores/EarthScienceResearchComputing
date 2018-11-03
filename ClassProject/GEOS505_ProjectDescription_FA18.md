@@ -9,4 +9,11 @@ The final project in GEOS 505 is meant to assess the extent to which you can eff
 2. Demonstrate the ability to independently extend your existing scientific computing skills by using new Python libraries or more deeply exploring libraries with which you are already familiar, and
 3. Document your problem, the approach you used to address it, and the outcomes of those efforts in a Jupyter notebook
 
-## 2. 
+## 2. Essential Project Elements
+The final project has four essential elements:
+1. A problem statement that identifies the science or engineering problem that needs to be solved, the required outcome of the problem, and the data sources available to help address the problem, 
+2. An overview of the programming libraries and associated methods required to achieve the required outcomes 
+3. A demonstration of a scientific computing workflow that uses the libraries and methods identified above to produce output (i.e., a derived dataset, a visualization) that solves the problem, in part or whole, and
+4. A write-up, in the form of a Jupyter notebook, that summarizes the problem, data, methods and materials, and outcomes that can be posted to GitHub and shared with colleagues.
+
+
